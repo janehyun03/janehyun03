@@ -5,7 +5,7 @@
 
 <p align="center">- 🌱 I’m currently learning **express.js**</p>
 
-<p align="center">- 👨‍💻 All of my projects are available at [https://janehyun03.github.io/](https://janehyun03.github.io/)</p>
+<p align="center">- 👨‍💻 All of my projects are available at https://janehyun03.github.io/</p>
 
 <p align="center">- 📫 How to reach me **janehyun03@gmail.com**</p>
 
