@@ -10,9 +10,7 @@
 - 📫 How to reach me janehyun03@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/developer-jane/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hyun8503" height="30" width="20" /></a>
-</p>
+<a href="https://www.linkedin.com/in/developer-jane/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hyun8503" height="30" width="20" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
