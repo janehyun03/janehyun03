@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jane</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **todo-list**
+<p align="center"> - 🔭 I’m currently working on **todo-list**</p>
 
-- 🌱 I’m currently learning **express.js**
+<p align="center">- 🌱 I’m currently learning **express.js**</p>
 
-- 👨‍💻 All of my projects are available at [https://janehyun03.github.io/](https://janehyun03.github.io/)
+<p align="center">- 👨‍💻 All of my projects are available at [https://janehyun03.github.io/](https://janehyun03.github.io/)</p>
 
-- 📫 How to reach me **janehyun03@gmail.com**
+<p align="center">- 📫 How to reach me **janehyun03@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
