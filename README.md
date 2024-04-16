@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Jane</h1>
 <h3 align="left">A passionate frontend developer</h3>
 
- - 🔭 I’m currently working on todo-list
+ - 🔭 I’m currently working on traveler jane blog
 
-- 🌱 I’m currently learning express.js
+- 🌱 I’m currently learning wordpress and Xcode
 
 - 👨‍💻 All of my projects are available at https://janehyun03.github.io
 
