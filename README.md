@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi there! I'm Jane</h1>
-<h3 align="left">A passionate frontend developer</h3>
+<h3 align="left">A passionate full-stack web developer</h3>
 
 I'm a passionate web developer currently interning at Tesor Halo. With a keen interest in creating innovative and efficient web solutions, I strive to leverage my skills to build impactful and user-friendly applications. At Tesor Halo, I am honing my abilities in front-end and back-end development, constantly learning and adapting to new technologies and industry trends.
 
