@@ -1,5 +1,10 @@
-<h1 align="left">Hi 👋, I'm Jane</h1>
+<h1 align="left">👋 Hi there! I'm Jane</h1>
 <h3 align="left">A passionate frontend developer</h3>
+
+I'm a passionate web developer currently interning at Tesor Halo. With a keen interest in creating innovative and efficient web solutions, I strive to leverage my skills to build impactful and user-friendly applications. At Tesor Halo, I am honing my abilities in front-end and back-end development, constantly learning and adapting to new technologies and industry trends.
+
+I enjoy collaborating with others and believe in the power of teamwork to drive success. On my GitHub, you'll find a collection of projects that showcase my skills, creativity, and dedication to continuous learning. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to connect or collaborate!
+Happy coding! 🚀
 
  - 🔭 I’m currently working on traveler jane blog
 
