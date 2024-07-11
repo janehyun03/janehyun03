@@ -6,7 +6,7 @@ I'm a passionate web developer currently interning at Tesor Halo. With a keen in
 I enjoy collaborating with others and believe in the power of teamwork to drive success. On my GitHub, you'll find a collection of projects that showcase my skills, creativity, and dedication to continuous learning. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to connect or collaborate!
 Happy coding! 🚀
 
- - 🔭 I’m currently working on traveler jane blog
+ - 🔭 I’m currently working on Dwellner's chatbot demo
 
 - 🌱 I’m currently learning wordpress and Xcode
 
