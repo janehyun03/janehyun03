@@ -8,8 +8,6 @@ Happy coding! 🚀
 
  - 🔭 I’m currently working on https://learn-korean-hub.lovable.app/
 
-- 👨‍💻 All of my projects are available at https://janehyun03.github.io
-
 - 📫 How to reach me janehyun03@gmail.com
 
 <h3 align="left">Connect with me:</h3>
